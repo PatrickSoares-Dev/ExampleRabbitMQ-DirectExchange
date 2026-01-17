@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "src\\RabbitMQ.Producer\\RabbitMQ.Producer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\RabbitMQ.Consumer\\RabbitMQ.Consumer.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
