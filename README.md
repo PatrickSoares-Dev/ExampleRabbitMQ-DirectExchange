@@ -14,6 +14,18 @@ This project consists of two primary components:
 
 ---
 
+## 🖼️ Screenshots
+
+### 🧪 Running Publisher and Consumer in Visual Studio
+
+![Publisher and Consumer Execution](./RABBITMQ%20PRODUCER%20AND%20CONSUMER.png)
+
+---
+
+### 📊 RabbitMQ Queue Monitoring (pedido.criados)
+
+![RabbitMQ Queue Monitoring](./RABBITMQ%20FUNCIONANDO.png)
+
 ## 📂 Models
 
 This project uses two primary data models: `Pedido` and `Item`, which represent an order and its individual items, respectively.
